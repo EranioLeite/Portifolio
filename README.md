@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Erânio Leite
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/seu-perfil)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/eranio-leite)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/seu-usuario)](https://github.com/seu-usuario)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:eranioleite.qa@gmail.com)
 
 Bem-vindo(a) ao meu portfólio no GitHub! Sou um profissional de Quality Assurance (QA) apaixonado por garantir a qualidade, eficiência e confiabilidade de produtos de software. Aqui você encontrará alguns dos meus projetos, que destacam meu conhecimento em testes, automação e controle de qualidade.
 
@@ -11,7 +11,7 @@ Bem-vindo(a) ao meu portfólio no GitHub! Sou um profissional de Quality Assuran
 ## 🛠️ Ferramentas & Tecnologias
 
 - **Linguagens para Automação de Testes**: Java, Python, JavaScript
-- **Ferramentas de Teste**: Selenium, Cypress, Appium, JUnit, TestNG
+- **Ferramentas de Teste**: Cypress, Selenium, Playwright, Appium, JUnit
 - **CI/CD e Versionamento**: Jenkins, Git, GitHub Actions
 - **Outras Ferramentas**: Postman, SoapUI, Jira, Allure Reports
 - **Metodologias e Boas Práticas**: TDD, BDD, Testes de Regressão, Testes Funcionais e Não Funcionais
