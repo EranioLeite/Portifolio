@@ -17,4 +17,4 @@ Veja abaixo alguns dos meus projetos:
 
 ## Contato
 - Email: eranioleite.qa@gmail.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- LinkedIn: [Eranio Leite](https://www.linkedin.com/in/eranio-leite/)
